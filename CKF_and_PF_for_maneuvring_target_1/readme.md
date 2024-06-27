@@ -21,4 +21,4 @@ file in the root directory. This script runs each filter 250 times using Monte C
 
 Please ensure that you have `MATLAB` installed and properly configured to run these scripts.
 ### Filter Initilization
-This folder gives three options for initializing  the filters: 1. 'other' 2. 'SP' 3. 'TPD'. However, unfortunelty, only 'other' works for all filters implemented for the current problem.
+This folder gives three options for initializing  the filters: 1. `other` 2. `SP` 3. `TPD`. However, unfortunelty, only `other` works for all filters implemented for the current problem.
