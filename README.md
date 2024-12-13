@@ -9,7 +9,7 @@ There are two folders for these filter implementations:
 This milestone looks at the tracking of multiple maneuvering targets with time-varying numbers, and by using unassigned measurements from a single active sensor with the help of two independent trackers: `GLMB_CKF` and `GLMB_PF.`
 
 #### Directory Structure
-There are two folders and two `.m' files inside the directory for the implementation of the trackers:
+There are two folders and two `.m` files inside the directory for the implementation of the trackers:
 - `glmb_pf/`: It uses `GLMB_PF` method for tracking and has a `demo.m' file for independent demonstration.
 - `glmb_ckf/`: It uses `GLMB_CKF` method for tracking and has a `demo.m' file for independent demonstration. 
 - `_commom/`: Both the above folders have this folder inside, and its path must be added to the Matlab editor while running demonstrations.
