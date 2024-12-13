@@ -1,6 +1,6 @@
 # Stream-1
 This repository stores the relevant codes and documents related to ``DIP Activator Stream 1`` in two branches, the `MS1.1` and `MS1.2` under the `Main` branch.
-## MS-1
+## MS1.1
 This milestone looks at the tracking of a single maneuvering target using two filters: `CKF` and `PF.`
 There are two folders for these filter implementations:
 - `CKF_and_PF_for_maneuvering_target/`: It has a fixed method for filter initialization
