@@ -13,7 +13,7 @@ There are two folders and two `.m' files inside the directory for the implementa
 - `glmb_pf/`: It uses `GLMB_PF` method for tracking and has a `demo.m' file for independent demonstration.
 - `glmb_ckf/`: It uses `GLMB_CKF` method for tracking and has a `demo.m' file for independent demonstration. 
 - `_commom/': Both the above folders have this folder inside, and its path must be added to the Matlab editor while running demonstrations.
-- `glmb_pf_n_ckf.m': This `.m` file runs a comparative demonstration for both the trackers. The paths to the two folders `glmb_pf` and `glmb_ckf` must be provided to the Matlab editor while running this file.
+- `glmb_pf_n_ckf.m`: This `.m` file runs a comparative demonstration for both the trackers. The paths to the two folders `glmb_pf` and `glmb_ckf` must be provided to the Matlab editor while running this file.
 
 #### Running the demonstrations
 To run the individual Milestone codes, navigate to the corresponding branch, the concerned sub-folder,  and run the `demo.m` file. For example, to run the GLMB_PF tracker for Milestone-1.2, navigate to the branch `MS1.1`, choose `glmb_pf/` directory and run:
