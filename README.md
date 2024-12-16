@@ -1,7 +1,7 @@
-# Stream-1
-This repository stores the relevant codes and documents related to ``DIP Activator Stream 1``
-### MS1.2
-This milestone looks at the tracking of multiple maneuvering targets with time-varying numbers, and by using unassigned measurements from a single active sensor with the help of two independent trackers: `GLMB_CKF` and `GLMB_PF.`
+# Object Tracking Algorithms
+This repository stores the relevant codes and documents related to ``Model-based Object Tracking``
+### Multi Objects
+This branch looks at the tracking of multiple maneuvering targets with time-varying numbers, and by using unassigned measurements from a single active sensor with the help of two independent trackers: `GLMB_CKF` and `GLMB_PF.`
 
 #### Directory Structure
 There are two folders and two `.m' files inside the directory for implementation of the trackers:
